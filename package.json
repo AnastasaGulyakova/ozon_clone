@@ -1,0 +1,14 @@
+{
+  "name": "ozon",
+  "version": "1.1.1",
+  "description": "deskription",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.2"
+  }
+}
